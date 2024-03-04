@@ -11,8 +11,6 @@
 <string>HTTPS</string>
 <key>ServerURL</key>
 <string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
-<key>ServerURL</key>
-<string>https://apple.dns.nextdns.io/dns/cloudydvn</string>
 </dict>
 <key>OnDemandRules</key>
 <array>
@@ -39,8 +37,6 @@
 <dict>
 <key>DNSProtocol</key>
 <string>HTTPS</string>
-<key>ServerURL</key>
-<string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
 <key>ServerURL</key>
 <string>https://apple.dns.nextdns.io/dns/cloudydvn</string>
 <key>SupplementalMatchDomains</key>
